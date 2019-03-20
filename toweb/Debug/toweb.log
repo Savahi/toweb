@@ -1,0 +1,35 @@
+﻿  helpers.cpp
+e:\sava\toweb\toweb\helpers.cpp(177): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(305): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(313): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(314): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(322): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(392): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(410): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(427): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(438): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(449): warning C4018: '<': signed/unsigned mismatch
+e:\sava\toweb\toweb\helpers.cpp(465): warning C4018: '<': signed/unsigned mismatch
+  loadcosts.cpp
+  loadgantt.cpp
+e:\sava\toweb\toweb\loadgantt.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  loadlinks.cpp
+  loadopcosts.cpp
+  loadoperations.cpp
+  loadoplinks.cpp
+  loadopresassignments.cpp
+  loadoptypes.cpp
+e:\sava\toweb\toweb\loadoptypes.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\sava\toweb\toweb\loadoptypes.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\sava\toweb\toweb\loadoptypes.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  loadproject.cpp
+  loadresources.cpp
+  loadtable.cpp
+e:\sava\toweb\toweb\loadtable.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  models.cpp
+  operations.cpp
+  stdafx.cpp
+  toweb.cpp
+e:\sava\toweb\toweb\toweb.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  toweb.vcxproj -> E:\Sava\toweb\Debug\toweb.exe
